@@ -11,7 +11,9 @@
 <h1>IJY</h1>
 
 <h1>KSY</h1>
->>>>>>> 3c595b5088d3e90bc050a0fe0029dc2e0b94ecbd
+
+<h1>KDG</h1>
+
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
